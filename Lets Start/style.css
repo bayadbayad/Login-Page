@@ -1,0 +1,49 @@
+body{
+    background-color: dodgerblue;
+}
+form{
+    background-color: white;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0 white ;
+    margin: 300px auto;
+
+    
+    
+
+}
+form input{
+        margin-top: 15px;
+        width: 60%;
+        padding: 15px;
+        border-radius: 10px;
+        border: none;
+        background-color: #f2f2f2;
+}
+form button{
+    margin-top: 15px;
+    width: 140px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: mediumblue;
+    box-shadow: 0px 0px 10px 0 mediumblue;
+    color: white;
+    margin-bottom: 10px;
+    transition: 1s;
+
+}
+form button:hover{
+
+}
+form a{
+      text-decoration: none;
+      color: ;
+      transition: 0.7s;
+}
+form a:hover{
+
+    color: blue;
+}
